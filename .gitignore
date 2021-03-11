@@ -1,0 +1,4 @@
+.vs/*
+src/API/API.fsproj.user
+**/bin
+**/obj
